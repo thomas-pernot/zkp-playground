@@ -1,0 +1,25 @@
+# Chapters 1–2 — Introduction, fingerprinting, Lagrange interpolation
+
+Book: J. Thaler, *Proofs, Arguments, and Zero-Knowledge* — pages 6–22.
+
+## 1. Introduction (p. 6–12)
+
+- **Prover / verifier:** …
+- **What makes these proofs "non-traditional":** …
+
+## 2.1 Reed-Solomon fingerprinting (p. 13–16)
+
+- **Problem:** …
+- **Idea:** evaluate a polynomial at a random point of a finite field.
+- **Why it works (error probability):** …
+- **Link with milestone 1:** polynomials over a finite field, as in BCH / Reed-Solomon.
+
+## 2.4 Univariate Lagrange interpolation (p. 18–22)
+
+- **Statement:** given n points, there is a unique polynomial of degree < n going through them.
+- **Formula:** …
+- **Worked example (by hand):** …
+
+## Questions / unclear points
+
+- …
